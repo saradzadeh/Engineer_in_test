@@ -51,7 +51,14 @@ Please click the [link here](https://drive.google.com/file/d/11Im1fH65VdWQ_qZzGZ
 #### Test the functions
 Test scenario | Test case | Preconditions | Test Steps | Expected result | Actual Result | Pass/Fail
 --- | --- | --- | --- | --- | --- | --- 
-hi | hi | hi | hi | hi | hi | hi
+Clicking on the search button after writing a valid name in search box | Check response clicking search button | writing a valid company name in the seach box | write a valid company name in the search box - click the search button | successfully go to the company page | do nothing | Fail
+Clicking on the search result after writing a valid name in search box | Check response clicking on the seach result | writing a valid company name in the seach box | write a valid company name in the search box - click the search result | successfully go to the company page | successfully go to the company page | Pass
+Clicking on the search button after writting nothing in the search box | Check response to the blank search | nothing | Clicking on the search button | showing an alert to fill the field | showing an alert to fill the field | Pass
+Clicking on the search button after writting an invalid name in ssearch box | Check response to an invalid search | writing an invalid text | search an invalid text in the search box - Click the search button | showing an alert to write a valid name | nothing | Fail
+Clicking on company names| Check response clicking on the link | nothing | nothing | Successfully go to the company page | Successfully go to the company page | Pass
+Clicking on company brands| Check response clicking on the link | nothing | nothing | Successfully go to the company page | Successfully go to the company page | Pass
+Clicking on the All Companies link| Check response clicking on the link | nothing | nothing | Successfully go to the company lists | Successfully go to the company lists | Pass
+Clicking on advertisement| Check response clicking on the link | nothing | nothing | Successfully go to the ad page | Successfully go to the ad page | Pass
 ### Test UI in different devices and browsers
 * **Firefox** 
 * **Chrome**  
