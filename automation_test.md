@@ -13,7 +13,7 @@ The subscription prompt
 * **Open-source tool** - Selenium WebDriver
 ## setup and run steps
 ### Step 1: Installing Selenium
-I went through the Selenium dev website and downloaded the Selenium for Ruby.
+I went through the Selenium drive website and downloaded the Selenium for Ruby.
 
 ### Step2: Using gemfile
 I installed bundler, made a GemFile, and downloaded GemFile for linux64 
@@ -29,7 +29,7 @@ I navigated the driver to the URL in line16.
 
 ### Step5: 
 * I searched the element to test (the subscription prompt) in line20.
-* I found the class name of the subscription prompt div from the browser.
+* I found the class name of the subscription prompt div from the browser. The driver could not find the element. So, I changed the element into the title of the subscription prompt. Finally, the driver successfully found it.
 
 ### Step6: Doing action
 * I Started to do actions. I used display action to check if the subscription prompt displays on the page after loading.
@@ -39,22 +39,19 @@ I navigated the driver to the URL in line16.
 * I used "location" to check the location of the subscription prompt.
 ![image](automation_test3.png)
 
-### Step7: installing rspec
+### Step7: Installing rspec
 I installed the rspec using bundle to check the expectations.
 
 ### Step8: run the test
 I run the test using rspec automation_test.rb command.
 
 ## Challenges
-### challenge1:
-I faced plenty of syntax errors.
+### Challenge1:
+It could not download the geckodriver. So, I changed the path in the terminal. It did not work, So I installed the sodu version.
 
 ### Challenge2:
-It cannot download the geckodriver. So, I changed the path in the terminal. It did not work, So I installed the sodu version.
-
-### Challenge3:
-The driver cannot find the element. I changed the element from the div to the title of the div.
+The driver could not find the element. I changed the element from the div into the title of the div.
 
 ## Challenges I still need to explore
-Although the test passed, getting the location of the element to check it pops up from the bottom of the page need to be checked again.
+Although the test passed, getting the location of the element to check if it pops up from the bottom of the page need to be checked again.
 
