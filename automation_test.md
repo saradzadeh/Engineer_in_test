@@ -42,7 +42,7 @@ I navigated the driver to the URL in line16.
 ### Step7: Installing rspec
 I installed the rspec using bundle to check the expectations.
 
-### Step8: run the test
+### Step8: Run the test
 I run the test using rspec automation_test.rb command.
 
 ## Challenges
