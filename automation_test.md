@@ -1,5 +1,5 @@
 # Automation test 
-The UI automation was implemented to test if the subscription prompt pops up at the bottom of the page in firefox using Selenium WebDriver and it desapears after 10 seconds
+The UI automation was implemented to test if the subscription prompt pops up at the bottom of the page in firefox using Selenium WebDriver and it disappears after 10 seconds
 ## Which element will be tested?
 The subscription prompt
 ## What is the test scenario?
