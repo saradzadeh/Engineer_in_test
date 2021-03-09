@@ -75,8 +75,6 @@ Clicking on advertisement| Check response clicking on the link | nothing | nothi
 * **Usability** - Positive point - Most of the users of this section can have professional careers. So, they are busy. The section should give them as much information as possible in the least amount of time. 
 * **Color** - Positive point - Using the proper color of green and red helps the users to find their goals as soon as possible.
 * **Proportion** (the relative size and scale of various elements in a design) - Suggestion - According to the rule of thirds, the most important part of the section doesn't have an important message on the computer screen.
-![image](thirdRuls.png)
-![image](size.png)
 
 
 
