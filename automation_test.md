@@ -12,10 +12,10 @@ The subscription prompt
 * **Language** - Ruby
 * **Open-source tool** - Selenium WebDriver
 ## setup and run steps
-### step 1: installing Selenium
+### Step 1: Installing Selenium
 I went through the Selenium dev website and downloaded the Selenium for Ruby.
 
-### step2: Using gemfile
+### Step2: Using gemfile
 I installed bundler, made a GemFile, and downloaded GemFile for linux64 
 
 ### Step3: Installing geckodriver
