@@ -9,7 +9,7 @@ The subscription prompt
 * Wait for 10 seconds (utmost)
 * Verify if the subscription pop up disappears on the same article
 
-* **LAnguage** - Ruby
+* **Language** - Ruby
 * **Open-source tool** - Selenium WebDriver
 ## setup and run steps
 ### step 1: installing Selenium
