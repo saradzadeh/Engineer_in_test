@@ -47,7 +47,7 @@ Learning about the page and the main goal of it.
 I did brainstorm using Mindmup.
 Please click the [link here](https://drive.google.com/file/d/11Im1fH65VdWQ_qZzGZ6Ft2aog0bzE7ty/view?usp=sharing) to see the mind map in mindmup. If you cannot access the link, please look at the figure below.
 
-![image](mindMap.png)
+![image](mindMup.png)
 
 #### Test the functions
 Test scenario | Test case | Preconditions | Test Steps | Expected result | Actual Result | Pass/Fail
