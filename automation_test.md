@@ -29,8 +29,11 @@ I navigated the driver to the URL in line16.
 
 ### Step6: Doing action
 * I Started to do actions. I used display action to check if the subscription prompt displays on the page after loading.
-* I used "location" to check the location of the subscription prompt
+![image](automation_test1.png)
 * I used "wait" to run the drive after 10 seconds again.
+![image](automation_test2.png)
+* I used "location" to check the location of the subscription prompt.
+![image](automation_test3.png)
 
 ### Step7: installing rspec
 I installed the rspec using bundle to check the expectations.
