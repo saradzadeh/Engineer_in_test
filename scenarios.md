@@ -39,7 +39,7 @@ Learning about the page and the main goal of it.
 * Company Brand (Clickable)
 * Rate & Ratio of each brand
 * Updated information
-* All Companies link (CLickable)
+* All Companies link (Clickable)
 * Search box including input box and search button (Clickable)
 * Advertisement (Clickable)
 
